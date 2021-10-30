@@ -4,9 +4,14 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "users": [
+    { "name": "admin", "ps": "admin" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users": [{ "name": "admin", "ps": "admin" }]
+  "profile": {
+    "name": "typicode"
+  }
 }
